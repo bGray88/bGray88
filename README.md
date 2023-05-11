@@ -4,7 +4,7 @@
   ![alt text](coding_stream.gif)
 </div>
 
-- 🔭 I’m currently working on some Python and C++ refresher projects
+- 🔭 I’m currently working on some Python-Django projects
 - 💬 Ask me about my current game ideas
 - 📫 How to reach me: <br>
   LinkedIn: [brandon-gray-67903689](https://www.linkedin.com/in/brandon-gray-67903689/)<br>
