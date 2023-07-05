@@ -7,5 +7,5 @@
   📫 How to reach me 📫<br>
   LinkedIn: [brandon-gray-67903689](https://www.linkedin.com/in/brandon-gray-67903689/)<br>
   Email:    brandonjoe88@hotmail.com<br>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bGray88)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bGray88&theme=merko)
 </div>
