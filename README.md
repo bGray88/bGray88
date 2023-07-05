@@ -30,7 +30,7 @@
 [Postgres-url]: https://www.postgresql.org/
 [Postman]: https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white
 [Postman-url]: https://www.postman.com/
-[LinkedIn]: LI-In-Bug1.ico
+[LinkedIn]: LI-In-Bug.ico
 [LinkedIn-url]: https://www.linkedin.com/in/brandon-gray-67903689/
 [Email]: Eml-Logo.ico
 [Email-url]: mailto://brandonjoe88@hotmail.com
