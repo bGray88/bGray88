@@ -18,7 +18,7 @@
   <h2>📫 How to reach me 📫</h2>
   
   <a href="https://www.linkedin.com/in/brandon-gray-67903689/"><img src="LI-In-Bug.ico" width="50"></a>
-  <a href="mailto:brandonjoe88@hotmail.com"><img src="Eml-Logo.ico" width="50"></a>
+  <a href="mailto:brandonjoe88@hotmail.com?"><img src="Eml-Logo.ico" width="50"></a>
 </div>
 
 [Ruby]: https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white
