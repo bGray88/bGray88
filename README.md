@@ -8,7 +8,7 @@
   [![LinkedIn]][LinkedIn-url]
   [![Email]][Email-url]
   <h2>Stats</h2>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bGray88&theme=merko)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bGray88&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 [Ruby]: https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white
@@ -19,9 +19,9 @@
 [Postgres-url]: https://www.postgresql.org/
 [Postman]: https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white
 [Postman-url]: https://www.postman.com/
-[LinkedIn]: 
+[LinkedIn]: LI-Logo.ico
 [LinkedIn-url]: https://www.linkedin.com/in/brandon-gray-67903689/
-[Email]: 
+[Email]: Eml-Logo.ico
 [Email-url]: mailto://brandonjoe88@hotmail.com
 [Graphql]: https://shields.io/badge/GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFF
 [Graphql-url]: https://graphql.org/
