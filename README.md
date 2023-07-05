@@ -9,7 +9,7 @@
 
   <h2>🔭 Projects that I'm currently working on 🔭</h2>
 
-  <h2💻 HUB Statistics 💻</h2>
+  <h2>💻 HUB Statistics 💻</h2>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bGray88&theme=merko)<br>
   <h2>📫 How to reach me 📫</h2>
