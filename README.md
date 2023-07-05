@@ -33,7 +33,7 @@
 [LinkedIn]: LI-In-Bug.ico
 [LinkedIn-url]: https://www.linkedin.com/in/brandon-gray-67903689/
 [Email]: Eml-Logo.ico
-[Email-url]: mailto://brandonjoe88@hotmail.com
+[Email-url]: mailto:brandonjoe88@hotmail.com
 [Graphql]: https://shields.io/badge/GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFF
 [Graphql-url]: https://graphql.org/
 [CircleCI]: https://img.shields.io/badge/circle%20ci-%23161616.svg?style=flat&logo=circleci&logoColor=white
