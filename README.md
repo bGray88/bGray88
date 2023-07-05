@@ -14,7 +14,7 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bGray88&theme=merko)<br>
   <h2>📫 How to reach me 📫</h2>
   
-  [![LinkedIn]][LinkedIn-url]
+  <a href="https://www.linkedin.com/in/brandon-gray-67903689/"><img src="LI-In-Bug.ico" width="50"></a>
   [![Email]][Email-url]<br>
 </div>
 
@@ -30,7 +30,6 @@
 [Postgres-url]: https://www.postgresql.org/
 [Postman]: https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white
 [Postman-url]: https://www.postman.com/
-[LinkedIn]: LI-In-Bug.ico
 [LinkedIn-url]: https://www.linkedin.com/in/brandon-gray-67903689/
 [Email]: Eml-Logo.ico
 [Email-url]: mailto:brandonjoe88@hotmail.com
