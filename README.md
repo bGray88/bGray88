@@ -18,7 +18,7 @@
   <h2>📫 How to reach me 📫</h2>
   
   <a href="https://www.linkedin.com/in/brandon-gray-67903689/"><img src="LI-In-Bug.ico" width="50"></a>
-  [![Email]][Email-url]<br>
+  <a href="mailto:brandonjoe88@hotmail.com"><img src="Eml-Logo.ico" width="50"></a>
 </div>
 
 [Ruby]: https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white
@@ -33,9 +33,6 @@
 [Postgres-url]: https://www.postgresql.org/
 [Postman]: https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white
 [Postman-url]: https://www.postman.com/
-[LinkedIn-url]: https://www.linkedin.com/in/brandon-gray-67903689/
-[Email]: Eml-Logo.ico
-[Email-url]: mailto:brandonjoe88@hotmail.com
 [Graphql]: https://shields.io/badge/GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFF
 [Graphql-url]: https://graphql.org/
 [CircleCI]: https://img.shields.io/badge/circle%20ci-%23161616.svg?style=flat&logo=circleci&logoColor=white
