@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>👋 Hello, Welcome to Brandon's GitHub Space 👋</h1>
+  <img src="coding_stream.gif" width="200">
+  <h1>👋 Welcome to Brandon's GitHub Space 👋</h1>
 
-  ![alt text](coding_stream.gif)
   <h2>💾 Technologies I've used in past projects 💾</h2>
   
   [![Ruby]][Ruby-url] [![Rails]][Rails-url] [![Postgres]][Postgres-url] [![Postman]][Postman-url]<br>
