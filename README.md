@@ -2,7 +2,7 @@
   <img src="coding_stream.gif" width="200">
   <h1>👋 Welcome to Brandon's GitHub Space 👋</h1>
 
-  <h2>💾 Technologies I've used in past projects 💾</h2>
+  <h2>💾 Technologies I enjoy using 💾</h2>
   
   [![Ruby]][Ruby-url] [![Rails]][Rails-url] [![Postgres]][Postgres-url] [![Postman]][Postman-url]<br>
   [![Graphql]][Graphql-url] [![CircleCI]][CircleCI-url] [![Python]][Python-url] [![Django]][Django-url]<br>
