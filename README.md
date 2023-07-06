@@ -1,5 +1,6 @@
 <div align="center">
   <img src="coding_stream.gif" width="200">
+  
   <h1>👋 Welcome to Brandon's GitHub Space 👋</h1>
 
   <h2>💾 Technologies I enjoy using 💾</h2>
@@ -8,13 +9,14 @@
   [![Graphql]][Graphql-url] [![CircleCI]][CircleCI-url] [![Python]][Python-url] [![Django]][Django-url]<br>
 
   <h2>🔭 Projects that I'm currently working on 🔭</h2>
-
+  
   [Music Collection BE](https://github.com/bGray88/music_collection_be)<br>
   [Music Collection FE](https://github.com/bGray88/music_collection_fe)<br>
 
   <h2>💻 HUB Statistics 💻</h2>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bGray88&theme=merko)<br>
+  
   <h2>📫 How to reach me 📫</h2>
   
   <a href="https://www.linkedin.com/in/brandon-gray-67903689/"><img src="LI-In-Bug.ico" width="50"></a>
